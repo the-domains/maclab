@@ -1,0 +1,28 @@
+name: maclab
+favicon: null
+layout_spectrum: 0.35209886729717255
+typography_spectrum: 0.4518169267103076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.28064906038343906
+  lightness: 0.05716584553010762
+  saturation: 0.6616340633481741
+  rhythmicContrast: 0.04405189258977771
+purpose: []
